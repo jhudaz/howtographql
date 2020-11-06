@@ -3393,9 +3393,10 @@ gatsby-source-filesystem@next:
     pretty-bytes "^4.0.2"
     slash "^1.0.0"
 
-gatsby-transformer-remark@next:
-  version "1.0.0-beta.1"
-  resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-1.0.0-beta.1.tgz#5d8a2aa40bd7b9fe0ce412d2b2e4e459ad6de5c7"
+gatsby-transformer-remark@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-transformer-remark/-/gatsby-transformer-remark-1.0.0.tgz#ae77c44a2e35d7ab2b9bd5f29090d29e1a54cf0d"
+  integrity sha1-rnfESi4116srm9XykJDSnhpUzw0=
   dependencies:
     bluebird "^3.5.0"
     gray-matter "^2.1.0"
