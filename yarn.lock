@@ -3312,9 +3312,10 @@ gatsby-plugin-google-analytics@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-google-analytics/-/gatsby-plugin-google-analytics-1.0.1.tgz#849b452b6fad7da5c63230b0944e9eb2f3d3959d"
 
-gatsby-plugin-offline@next:
-  version "1.0.0-beta.3"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-1.0.0-beta.3.tgz#4b2a59274f0e202ba78a41c4fe90cb6149239ab9"
+gatsby-plugin-offline@1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-offline/-/gatsby-plugin-offline-1.0.0.tgz#94cbe0b5cee33280ef5394905783ba493c3c2f91"
+  integrity sha1-lMvgtc7jMoDvU5SQV4O6STw8L5E=
   dependencies:
     sw-precache "^5.0.0"
 
